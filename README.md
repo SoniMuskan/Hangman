@@ -1,7 +1,3 @@
-Sure, here's a combined README that includes your provided content along with the additional details about the Hangman game:
-
----
-
 # Hangman Game - React App
 
 This project is a classic Hangman game built using React and TypeScript. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
